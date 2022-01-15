@@ -1,0 +1,21 @@
+{
+  "name": "order_processing",
+  "order": {
+      "name": "order 123",
+      "value": "2000",
+      "items": [
+          {
+              "item": "1",
+              "name": "item 1",
+              "qtd": "10",
+              "value": "100"
+          },
+          {
+              "item": "2",
+              "name": "item 2",
+              "qtd": "20",
+              "value": "50"
+          }
+    	]
+  }
+}
